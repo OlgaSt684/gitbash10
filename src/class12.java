@@ -30,7 +30,7 @@ public class class12 {
 		for(int nym:numbers) {System.out.print(nym+" ");}
 		
 		System.out.println("    ");
-		System.out.println("-----------char array EXAMPLE-------------");
+	
 				
 	char[] grade ={'A','B','C','D','E','F'};
 	
